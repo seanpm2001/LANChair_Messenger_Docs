@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🏡️🪑️💬️📖️ The official documentation source repository for LANChair messenger, a very basic messaging tool, in between Wi-Fi/Cellular and VoIP, it is on its own distinct network, and allows communication through people only on the same LAN as you.
